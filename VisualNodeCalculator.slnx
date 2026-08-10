@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VisualNodeCalculator.vcxproj" Id="ff8e83db-fed0-4a83-aea7-efedc56e8040" />
+</Solution>
